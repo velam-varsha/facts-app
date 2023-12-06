@@ -1,3 +1,6 @@
+# Link to the project
+link: https://facts-app-varsha.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
